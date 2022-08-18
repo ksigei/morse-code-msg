@@ -45,7 +45,7 @@ Feel free to check the [issues page](../../issues)
   4. Push to the Branch (`git push -u origin feature/newFeature`)
   5. Open a Pull Request
 
-## Author
+## Authors
 👤 **Abdulhamiid**
 
 - GitHub: [@abdulhamiid](https://github.com/abdulhamiid)
