@@ -46,6 +46,10 @@ Feel free to check the [issues page](../../issues)
   5. Open a Pull Request
 
 ## Author
+👤 **Abdulhamiid**
+
+- GitHub: [@abdulhamiid](https://github.com/abdulhamiid)
+- Twitter: [@abdulhamid_adio](https://twitter.com/abdulhamid_adio)
 
 👤 **Sigei Kiprono**
 
